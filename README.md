@@ -47,7 +47,7 @@ This project was cleaned and organized for public portfolio use. It includes a p
 ## Project Structure
 
 ```text
-android-bitwise-calculator/
+android-bitwise-calculator-app/
 ├── app/
 │   ├── src/
 │   │   └── main/
