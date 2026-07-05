@@ -1,4 +1,4 @@
-# Android Bitwise Calculator
+# Android Bitwise Calculator App
 
 A mobile bitwise calculator app built with Java and Android Studio. This project features a clean iPhone-inspired calculator interface and supports common bitwise operations.
 
@@ -141,7 +141,10 @@ android-bitwise-calculator-app/
 
 ```bash
 git clone https://github.com/TimNieto/android-bitwise-calculator-app.git
+cd android-bitwise-calculator-app
 ```
+
+2. Open the project in Android Studio.
 
 2. Open the project in Android Studio.
 
