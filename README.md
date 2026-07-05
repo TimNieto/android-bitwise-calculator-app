@@ -85,6 +85,45 @@ android-bitwise-calculator-app/
 └── README.md
 ```
 
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/TimNieto/android-bitwise-calculator-app.git
+cd android-bitwise-calculator-app
+```
+
+2. Open the project in Android Studio.
+
+2. Open the project in Android Studio.
+
+3. Let Android Studio sync the Gradle files.
+
+4. Start an Android emulator or connect an Android device.
+
+5. Run the app from Android Studio, or use the command line.
+
+## Build Command
+
+On Windows PowerShell:
+
+```powershell
+.\gradlew clean assembleDebug
+```
+
+Expected output:
+
+```text
+BUILD SUCCESSFUL
+```
+
+## Install Command
+
+```powershell
+.\gradlew installDebug
+```
+
 ## Screenshots
 
 ### Bitwise AND
@@ -134,45 +173,6 @@ android-bitwise-calculator-app/
 `5 & = Syntax Error`
 
 ![Syntax Error Handling](assets/sample-output8.png)
-
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/TimNieto/android-bitwise-calculator-app.git
-cd android-bitwise-calculator-app
-```
-
-2. Open the project in Android Studio.
-
-2. Open the project in Android Studio.
-
-3. Let Android Studio sync the Gradle files.
-
-4. Start an Android emulator or connect an Android device.
-
-5. Run the app from Android Studio, or use the command line.
-
-## Build Command
-
-On Windows PowerShell:
-
-```powershell
-.\gradlew clean assembleDebug
-```
-
-Expected output:
-
-```text
-BUILD SUCCESSFUL
-```
-
-## Install Command
-
-```powershell
-.\gradlew installDebug
-```
 
 ## Sample Test Cases
 
