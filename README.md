@@ -212,6 +212,7 @@ This project does not use a database. All calculations are handled locally insid
 ## License
 
 This project is for educational and portfolio purposes only. All rights are reserved.
+
 You may view the source code, but you may not copy, modify, distribute, or use this code without permission from the author.
 
 ## Author
